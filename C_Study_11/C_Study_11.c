@@ -3,7 +3,7 @@
 	
 	#Compare define and typedef
 		#define : Preprocessor  !!Constant!!
-		#typedef : user define Type
+		#typedef : user define Type 
 	
 	//don't use semi-colon(;) at the end of the line
 	//make PSI
